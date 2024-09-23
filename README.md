@@ -1,2 +1,26 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+Belaar dasar dasar pemrograman dart seperti :
+- Variable
+- Komentar
+- Tipe data
+- Dynamic
+- Konversi Tipe Data
+- Operator Aritmatika
+- Operator Perbandingan
+- Operator Penugasan
+- Operator Logika
+- Operator Type Test
+- Symbol
+- If Else
+- Switch Case
+- Null
+- Ternary Operator
+- Null Safety
+- For Loop
+- While Loop
+- Do While Loop
+- Break dan Continue
+- For In
+- Function dan berbagai enisnya
+- Scope
+- Closure
+- dll
